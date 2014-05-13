@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2012\Projects\diplom\diplom\bin\Debug\diplom.exe.config
+c:\users\user\documents\visual studio 2012\Projects\diplom\diplom\obj\Debug\diplom.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\diplom\diplom\obj\Debug\diplom.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\diplom\diplom\obj\Debug\diplom.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\diplom\diplom\bin\Debug\diplom.exe
+c:\users\user\documents\visual studio 2012\Projects\diplom\diplom\bin\Debug\diplom.pdb
+c:\users\user\documents\visual studio 2012\Projects\diplom\diplom\obj\Debug\diplom.exe
+c:\users\user\documents\visual studio 2012\Projects\diplom\diplom\obj\Debug\diplom.pdb
+c:\users\user\documents\visual studio 2012\Projects\diplom\diplom\obj\Debug\diplom.csprojResolveAssemblyReference.cache
